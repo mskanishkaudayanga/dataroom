@@ -1,0 +1,72 @@
+[
+  {
+    "name": "RID",
+    "field_type": "text",
+    "editable": "false"
+  },
+  {
+    "name": "Projekt",
+    "field_type": "text",
+    "editable": "false"
+  },
+  {
+    "name": "Einheit",
+    "field_type": "text",
+    "editable": "false"
+  },
+  {
+    "name": "Name Kaeufer",
+    "field_type": "text",
+    "editable": " false"
+  },
+  {
+    "name": "Betreuer 1",
+    "field_type": "singleSelect",
+    "editable": "true"
+  },
+  {
+    "name": "Betreuer 2",
+    "field_type": "singleSelect",
+    "editable": "true"
+  },
+  {
+    "name": "Reservierung Datum",
+    "field_type": "date",
+    "editable": " false"
+  },
+  {
+    "name": "Reservierungsgebuehr Eingang",
+    "field_type": "price",
+    "editable": " false"
+  },
+  {
+    "name": "Kaufpreis KV-Entwurf",
+    "field_type": "price",
+    "editable": " false"
+  },
+  {
+    "name": "14 Tage Countdown ",
+    "field_type": "date",
+    "editable": " false"
+  },
+  {
+    "name": "Notartermin Datum",
+    "field_type": "date",
+    " editable": " false"
+  },
+  {
+    "name": "Notartermin Uhrzeit",
+    "field_type": "number",
+    " editable": " false"
+  },
+  {
+    "name": "Nutzung nach Kauf",
+    "field_type": "number",
+    " editable": "true"
+  },
+  {
+    "name": "Provision",
+    "field_type": "number",
+    " editable": " false"
+  }
+]

@@ -1,0 +1,746 @@
+[
+    {
+        "title": "Ägyptisch",
+        "value": "ägyptisch"
+    },
+    {
+        "title": "Afghanisch",
+        "value": "afghanisch"
+    },
+    {
+        "title": "Albanisch",
+        "value": "albanisch"
+    },
+    {
+        "title": "Algerisch",
+        "value": "algerisch"
+    },
+    {
+        "title": "Andorranisch",
+        "value": "andorranisch"
+    },
+    {
+        "title": "Angolanisch",
+        "value": "angolanisch"
+    },
+    {
+        "title": "Antiguanisch",
+        "value": "antiguanisch"
+    },
+    {
+        "title": "Äquatorial-guineisch",
+        "value": "äquatorial-guineisch"
+    },
+    {
+        "title": "Argentinisch",
+        "value": "argentinisch"
+    },
+    {
+        "title": "Armenisch",
+        "value": "armenisch"
+    },
+    {
+        "title": "Aserbaidschanisch",
+        "value": "aserbaidschanisch"
+    },
+    {
+        "title": "Äthiopisch",
+        "value": "äthiopisch"
+    },
+    {
+        "title": "Australisch",
+        "value": "australisch"
+    },
+    {
+        "title": "Britisch",
+        "value": "britisch"
+    },
+    {
+        "title": "Bahamaisch",
+        "value": "bahamaisch"
+    },
+    {
+        "title": "Bahrainisch",
+        "value": "bahrainisch"
+    },
+    {
+        "title": "Bangladeschisch",
+        "value": "bangladeschisch"
+    },
+    {
+        "title": "Barbadisch",
+        "value": "barbadisch"
+    },
+    {
+        "title": "Belarussisch",
+        "value": "belarussisch"
+    },
+    {
+        "title": "Belgisch",
+        "value": "belgisch"
+    },
+    {
+        "title": "Belizisch",
+        "value": "belizisch"
+    },
+    {
+        "title": "Beninisch",
+        "value": "beninisch"
+    },
+    {
+        "title": "Bhutanisch",
+        "value": "bhutanisch"
+    },
+    {
+        "title": "Bolivianisch",
+        "value": "bolivianisch"
+    },
+    {
+        "title": "Bosnisch-herzegowinisch",
+        "value": "bosnisch-herzegowinisch"
+    },
+    {
+        "title": "Botsuanisch",
+        "value": "botsuanisch"
+    },
+    {
+        "title": "Brasilianisch",
+        "value": "brasilianisch"
+    },
+    {
+        "title": "Bruneiisch",
+        "value": "bruneiisch"
+    },
+    {
+        "title": "Bulgarisch",
+        "value": "bulgarisch"
+    },
+    {
+        "title": "Burkinisch",
+        "value": "burkinisch"
+    },
+    {
+        "title": "Burundisch",
+        "value": "burundisch"
+    },
+    {
+        "title": "Chilenisch",
+        "value": "chilenisch"
+    },
+    {
+        "title": "Chinesisch",
+        "value": "chinesisch"
+    },
+    {
+        "title": "Costa-ricanisch",
+        "value": "costa-ricanisch"
+    },
+    {
+        "title": "Deutsch",
+        "value": "deutsch"
+    },
+    {
+        "title": "Dänisch",
+        "value": "dänisch"
+    },
+    {
+        "title": "Dominicanisch",
+        "value": "dominicanisch"
+    },
+    {
+        "title": "Dominikanisch",
+        "value": "dominikanisch"
+    },
+    {
+        "title": "Dschibutisch",
+        "value": "dschibutisch"
+    },
+    {
+        "title": "Ecuadorianisch",
+        "value": "ecuadorianisch"
+    },
+    {
+        "title": "Eritreisch",
+        "value": "eritreisch"
+    },
+    {
+        "title": "Estnisch",
+        "value": "estnisch"
+    },
+    {
+        "title": "Französisch",
+        "value": "französisch"
+    },
+    {
+        "title": "Fidschianisch",
+        "value": "fidschianisch"
+    },
+    {
+        "title": "Finnisch",
+        "value": "finnisch"
+    },
+    {
+        "title": "Gabunisch",
+        "value": "gabunisch"
+    },
+    {
+        "title": "Gambisch",
+        "value": "gambisch"
+    },
+    {
+        "title": "Georgisch",
+        "value": "georgisch"
+    },
+    {
+        "title": "Ghanaisch",
+        "value": "ghanaisch"
+    },
+    {
+        "title": "Grenadisch",
+        "value": "grenadisch"
+    },
+    {
+        "title": "Guatemalisch",
+        "value": "guatemalisch"
+    },
+    {
+        "title": "Griechisch",
+        "value": "griechisch"
+    },
+    {
+        "title": "Guatemaltekisch",
+        "value": "guatemaltekisch"
+    },
+    {
+        "title": "Guineisch",
+        "value": "guineisch"
+    },
+    {
+        "title": "Guinea-bissauisch",
+        "value": "guinea-bissauisch"
+    },
+    {
+        "title": "Guyanisch",
+        "value": "guyanisch"
+    },
+    {
+        "title": "Haitianisch",
+        "value": "haitianisch"
+    },
+    {
+        "title": "Honduranisch",
+        "value": "honduranisch"
+    },
+    {
+        "title": "Italienisch",
+        "value": "italienisch"
+    },
+    {
+        "title": "Ivorisch",
+        "value": "ivorisch"
+    },
+    {
+        "title": "Palauisch",
+        "value": "palauisch"
+    },
+    {
+        "title": "Spanisch",
+        "value": "spanisch"
+    },
+    {
+        "title": "Isländisch",
+        "value": "isländisch"
+    },
+    {
+        "title": "Indisch",
+        "value": "indisch"
+    },
+    {
+        "title": "Indonesisch",
+        "value": "indonesisch"
+    },
+    {
+        "title": "Irakisch",
+        "value": "irakisch"
+    },
+    {
+        "title": "Iranisch",
+        "value": "iranisch"
+    },
+    {
+        "title": "Irisch",
+        "value": "irisch"
+    },
+    {
+        "title": "Israelisch",
+        "value": "israelisch"
+    },
+    {
+        "title": "Jamaikanisch",
+        "value": "jamaikanisch"
+    },
+    {
+        "title": "Japanisch",
+        "value": "japanisch"
+    },
+    {
+        "title": "Jemenitisch",
+        "value": "jemenitisch"
+    },
+    {
+        "title": "Jordanisch",
+        "value": "jordanisch"
+    },
+    {
+        "title": "Kambodschanisch",
+        "value": "kambodschanisch"
+    },
+    {
+        "title": "Kamrunisch",
+        "value": "kamrunisch"
+    },
+    {
+        "title": "Kanadisch",
+        "value": "kanadisch"
+    },
+    {
+        "title": "Kasachisch",
+        "value": "kasachisch"
+    },
+    {
+        "title": "Katarisch",
+        "value": "katarisch"
+    },
+    {
+        "title": "Kenianisch",
+        "value": "kenianisch"
+    },
+    {
+        "title": "Kirgisisch",
+        "value": "kirgisisch"
+    },
+    {
+        "title": "Kiribatisch",
+        "value": "kiribatisch"
+    },
+    {
+        "title": "Kolumbianisch",
+        "value": "kolumbianisch"
+    },
+    {
+        "title": "Komorisch",
+        "value": "komorisch"
+    },
+    {
+        "title": "Kongolesisch",
+        "value": "kongolesisch"
+    },
+    {
+        "title": "Koreanisch",
+        "value": "koreanisch"
+    },
+    {
+        "title": "Kosovarisch",
+        "value": "kosovarisch"
+    },
+    {
+        "title": "Kroatisch",
+        "value": "kroatisch"
+    },
+    {
+        "title": "Kubanisch",
+        "value": "kubanisch"
+    },
+    {
+        "title": "Kuwaitisch",
+        "value": "kuwaitisch"
+    },
+    {
+        "title": "Laotisch",
+        "value": "laotisch"
+    },
+    {
+        "title": "Lesotherisch",
+        "value": "lesotherisch"
+    },
+    {
+        "title": "Lettisch",
+        "value": "lettisch"
+    },
+    {
+        "title": "Libanesisch",
+        "value": "libanesisch"
+    },
+    {
+        "title": "Liberianisch",
+        "value": "liberianisch"
+    },
+    {
+        "title": "Libysch",
+        "value": "libysch"
+    },
+    {
+        "title": "Liechtensteinisch",
+        "value": "liechtensteinisch"
+    },
+    {
+        "title": "Litauisch",
+        "value": "litauisch"
+    },
+    {
+        "title": "Luxemburgisch",
+        "value": "luxemburgisch"
+    },
+    {
+        "title": "Madagassisch",
+        "value": "madagassisch"
+    },
+    {
+        "title": "Malawisch",
+        "value": "malawisch"
+    },
+    {
+        "title": "Malaysisch",
+        "value": "malaysisch"
+    },
+    {
+        "title": "Maledivisch",
+        "value": "maledivisch"
+    },
+    {
+        "title": "Malisch",
+        "value": "malisch"
+    },
+    {
+        "title": "Maltesisch",
+        "value": "maltesisch"
+    },
+    {
+        "title": "Marokkanisch",
+        "value": "marokkanisch"
+    },
+    {
+        "title": "Marshallisch",
+        "value": "marshallisch"
+    },
+    {
+        "title": "Mauretanisch",
+        "value": "mauretanisch"
+    },
+    {
+        "title": "Mauritisch",
+        "value": "mauritisch"
+    },
+    {
+        "title": "Mazedonisch",
+        "value": "mazedonisch"
+    },
+    {
+        "title": "Mexikanisch",
+        "value": "mexikanisch"
+    },
+    {
+        "title": "Mikronesisch",
+        "value": "mikronesisch"
+    },
+    {
+        "title": "Moldauisch",
+        "value": "moldauisch"
+    },
+    {
+        "title": "Monegassisch",
+        "value": "monegassisch"
+    },
+    {
+        "title": "Mongolisch",
+        "value": "mongolisch"
+    },
+    {
+        "title": "Montenegrinisch",
+        "value": "montenegrinisch"
+    },
+    {
+        "title": "Mosambikanisch",
+        "value": "mosambikanisch"
+    },
+    {
+        "title": "Myanmarisch",
+        "value": "myanmarisch"
+    },
+    {
+        "title": "Namibisch",
+        "value": "namibisch"
+    },
+    {
+        "title": "Naurisch",
+        "value": "naurisch"
+    },
+    {
+        "title": "Nepalesisch",
+        "value": "nepalesisch"
+    },
+    {
+        "title": "Neuseeländisch",
+        "value": "neuseeländisch"
+    },
+    {
+        "title": "Nicaraguanisch",
+        "value": "nicaraguanisch"
+    },
+    {
+        "title": "Niederländisch",
+        "value": "niederländisch"
+    },
+    {
+        "title": "Nigrisch",
+        "value": "nigrisch"
+    },
+    {
+        "title": "Nigerianisch",
+        "value": "nigerianisch"
+    },
+    {
+        "title": "Niueanisch",
+        "value": "niueanisch"
+    },
+    {
+        "title": "Norwegisch",
+        "value": "norwegisch"
+    },
+    {
+        "title": "Omanisch",
+        "value": "omanisch"
+    },
+    {
+        "title": "Östereichisch",
+        "value": "östereichisch"
+    },
+    {
+        "title": "Pakistanisch",
+        "value": "pakistanisch"
+    },
+    {
+        "title": "Palästinensisch",
+        "value": "palästinensisch"
+    },
+    {
+        "title": "Panamaisch",
+        "value": "panamaisch"
+    },
+    {
+        "title": "Papua-neuguineisch",
+        "value": "papua-neuguineisch"
+    },
+    {
+        "title": "Paraguayisch",
+        "value": "paraguayisch"
+    },
+    {
+        "title": "Peruanisch",
+        "value": "peruanisch"
+    },
+    {
+        "title": "Philippinisch",
+        "value": "philippinisch"
+    },
+    {
+        "title": "Polnisch",
+        "value": "polnisch"
+    },
+    {
+        "title": "Portugiesisch",
+        "value": "portugiesisch"
+    },
+    {
+        "title": "Ruandisch",
+        "value": "ruandisch"
+    },
+    {
+        "title": "Rumänisch",
+        "value": "rumänisch"
+    },
+    {
+        "title": "Russisch",
+        "value": "russisch"
+    },
+    {
+        "title": "Salvadorianisch",
+        "value": "salvadorianisch"
+    },
+    {
+        "title": "Salomonisch",
+        "value": "salomonisch"
+    },
+    {
+        "title": "Sambisch",
+        "value": "sambisch"
+    },
+    {
+        "title": "Samoanisch",
+        "value": "samoanisch"
+    },
+    {
+        "title": "San-marinesisch",
+        "value": "san-marinesisch"
+    },
+    {
+        "title": "Saudi-arabisch",
+        "value": "saudi-arabisch"
+    },
+    {
+        "title": "Schwedisch",
+        "value": "schwedisch"
+    },
+    {
+        "title": "Senegalesisch",
+        "value": "senegalesisch"
+    },
+    {
+        "title": "Serbisch",
+        "value": "serbisch"
+    },
+    {
+        "title": "Seychellisch",
+        "value": "seychellisch"
+    },
+    {
+        "title": "Siamesisch",
+        "value": "siamesisch"
+    },
+    {
+        "title": "Sierra-leonisch",
+        "value": "sierra-leonisch"
+    },
+    {
+        "title": "Singapurisch",
+        "value": "singapurisch"
+    },
+    {
+        "title": "Slovakisch",
+        "value": "slovakisch"
+    },
+    {
+        "title": "Slowenisch",
+        "value": "slowenisch"
+    },
+    {
+        "title": "Somalisch",
+        "value": "somalisch"
+    },
+    {
+        "title": "Südafrikanisch",
+        "value": "südafrikanisch"
+    },
+    {
+        "title": "Südsudanesisch",
+        "value": "südsudanesisch"
+    },
+    {
+        "title": "Surinamisch",
+        "value": "surinamisch"
+    },
+    {
+        "title": "Syrisch",
+        "value": "syrisch"
+    },
+    {
+        "title": "Tadschikisch",
+        "value": "tadschikisch"
+    },
+    {
+        "title": "Taiwanisch",
+        "value": "taiwanisch"
+    },
+    {
+        "title": "Tansanisch",
+        "value": "tansanisch"
+    },
+    {
+        "title": "Tschechisch",
+        "value": "tschechisch"
+    },
+    {
+        "title": "Tschadisch",
+        "value": "tschadisch"
+    },
+    {
+        "title": "Togoisch",
+        "value": "togoisch"
+    },
+    {
+        "title": "Tonganisch",
+        "value": "tonganisch"
+    },
+    {
+        "title": "Trinidadisch",
+        "value": "trinidadisch"
+    },
+    {
+        "title": "Tunesisch",
+        "value": "tunesisch"
+    },
+    {
+        "title": "Türkisch",
+        "value": "türkisch"
+    },
+    {
+        "title": "Turkmenisch",
+        "value": "turkmenisch"
+    },
+    {
+        "title": "Tuvalisch",
+        "value": "tuvalisch"
+    },
+    {
+        "title": "Ugandisch",
+        "value": "ugandisch"
+    },
+    {
+        "title": "Ukrainisch",
+        "value": "ukrainisch"
+    },
+    {
+        "title": "Uruguayisch",
+        "value": "uruguayisch"
+    },
+    {
+        "title": "Usbekisch",
+        "value": "usbekisch"
+    },
+    {
+        "title": "Ungarisch",
+        "value": "ungarisch"
+    },
+    {
+        "title": "US-Amerikanisch",
+        "value": "us-amerikanisch"
+    },
+    {
+        "title": "Vanuatuanisch",
+        "value": "vanuatuanisch"
+    },
+    {
+        "title": "Vatikanisch",
+        "value": "vatikanisch"
+    },
+    {
+        "title": "Venezolanisch",
+        "value": "venezolanisch"
+    },
+    {
+        "title": "Vietnamesisch",
+        "value": "vietnamesisch"
+    },
+    {
+        "title": "Weißrussisch",
+        "value": "weißrussisch"
+    },
+    {
+        "title": "Zentralsudanesisch",
+        "value": "zentralsudanesisch"
+    },
+    {
+        "title": "Zimbabwanisch",
+        "value": "zimbabwanisch"
+    }
+]

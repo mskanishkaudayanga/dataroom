@@ -1,0 +1,122 @@
+[
+  {
+    "name": "RID",
+    "field_type": "text",
+    "editable": "false"
+  },
+  {
+    "name": "Projekt",
+    "field_type": "text",
+    "editable": "false"
+  },
+  {
+    "name": "Einheit",
+    "field_type": "text",
+    "editable": "false"
+  },
+  {
+    "name": "Kaeufer",
+    "field_type": "text",
+    "editable": "false"
+  },
+  {
+    "name": "Betreuer 1",
+    "field_type": "singleSelect",
+    "editable": "true"
+  },
+  {
+    "name": "Betreuer 2",
+    "field_type": "singleSelect",
+    "editable": "true"
+  },
+  {
+    "name": "Kaufpreis Reservierung",
+    "field_type": "price",
+    "editable": "false"
+  },
+  {
+    "name": "Reservierung Datum",
+    "field_type": "date",
+    "editable": "false"
+  },
+  {
+    "name": "Reservierungsgebuehr Eingang",
+    "field_type": "price",
+    "editable": "false"
+  },
+  {
+    "name": "NDB an Covivio",
+    "field_type": "date",
+    "editable": "false"
+  },
+  {
+    "name": "NDB von Covivio an Essen",
+    "field_type": "date",
+    "editable": "false"
+  },
+  {
+    "name": "NDB von an Berlin",
+    "field_type": "date",
+    "editable": "false"
+  },
+  {
+    "name": "Kaufpreis KV-Entwurf",
+    "field_type": "singleSelect",
+    "editable": "false"
+  },
+  {
+    "name": "14 Tage Countdown ",
+    "field_type": "date",
+    "editable": "false"
+  },
+  {
+    "name": "Notartermin Datum",
+    "field_type": "singleSelect",
+    "editable": "false"
+  },
+  {
+    "name": "Notartermin Uhrzeit",
+    "field_type": "singleSelect",
+    "editable": "false"
+  },
+  {
+    "name": "Herkunft Erwerber",
+    "field_type": "singleSelect",
+    "editable": "true"
+  },
+  {
+    "name": "Finanzierung",
+    "field_type": "date",
+    "editable": "false"
+  },
+  {
+    "name": "Grund der Absage",
+    "field_type": "singleSelect",
+    "editable": "false"
+  },
+  {
+    "name": "Nutzung nach Kauf",
+    "field_type": "singleSelect",
+    "editable": "true"
+  },
+  {
+    "name": "Provision",
+    "field_type": "number",
+    "editable": "false"
+  },
+  {
+    "name": "Annahme",
+    "field_type": "singleSelect",
+    "editable": "false"
+  },
+  {
+    "name": "GWG-Extern",
+    "field_type": "checkbox",
+    "editable": "false"
+  },
+  {
+    "name": "GWG-Intern",
+    "field_type": "checkbox",
+    "editable": "false"
+  }
+]
